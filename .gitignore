@@ -4,4 +4,11 @@
 
 expo-env.d.ts
 node_modules
-# @end expo-cli
+env
+*.env
+*.env.example
+*.env.local
+*.env.staging
+# @end expo-clibackend/.env
+backend/.env
+node_modules

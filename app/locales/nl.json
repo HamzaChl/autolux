@@ -1,0 +1,77 @@
+{
+  "home": {
+    "title": "Waar wil je naartoe?",
+    "pickup": "Vertrekpunt",
+    "dropoff": "Voer de bestemming in",
+    "youAreHere": "Je bent hier",
+    "destination": "Bestemming",
+    "distanceDuration": "Afstand: {{distance}} • Duur: {{duration}}",
+    "error": "Fout",
+    "enterAddresses": "Voer een vertrek- en aankomstadres in",
+    "serverError": "Kan geen verbinding maken met de server",
+    "routeError": "Kan de route niet berekenen",
+    "findRide": "Zoeken"
+  },
+  "profile": {
+    "messages": "Berichten",
+    "payment": "Betaling",
+    "promotions": "Promoties",
+    "language": "Taal",
+    "selectLanguage": "Kies een taal",
+    "cancel": "Annuleren",
+    "support": "Ondersteuning",
+    "about": "Over",
+    "back": "Terug",
+    "hello": "Hallo,",
+    "userNotFound": "Gebruiker niet gevonden",
+    "logout": "Uitloggen",
+    "logoutTitle": "Uitloggen",
+    "logoutConfirm": "Wil je echt uitloggen?",
+    "paymentMethods": "Betaalmethoden",
+    "addPaymentMethod": "Voeg een betaalmethode toe",
+    "favorites": "Favorieten"
+  },
+  "support": {
+    "emailTitle": "Contacteer ons via e-mail",
+    "emailDesc": "Voor vragen of hulp, stuur ons een e-mail.",
+    "emailButton": "E-mail verzenden",
+    "phoneTitle": "Bel onze support",
+    "phoneDesc": "Heb je direct hulp nodig? Bel ons supportteam.",
+    "phoneButton": "Bel support"
+  },
+  "payment": {
+    "payButton": "Betaal {{amount}} {{currency}}",
+    "errorTitle": "Fout",
+    "errorInit": "Kan betaling niet starten",
+    "errorServer": "Kan geen verbinding maken met de betalingsserver",
+    "successTitle": "✅ Succes",
+    "successMessage": "Betaling succesvol uitgevoerd!"
+  },
+  "history": {
+    "title": "Ritgeschiedenis",
+    "empty": "Geen ritten opgeslagen"
+  },
+  "welcome": {
+    "title": "Meer dan een taxi, een premium ervaring",
+    "login": "Inloggen",
+    "create": "Een account aanmaken"
+  },
+  "misc": {
+    "back": "Terug",
+    "edit": "Mijn profiel wijzigen"
+  },
+  "login": {
+    "title": "Inloggen",
+    "subtitle": "Welkom terug, log in om verder te gaan",
+    "email": "E-mailadres",
+    "password": "Wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "keepSignedIn": "Ingelogd blijven",
+    "loginButton": "Inloggen",
+    "createAccount": "Account aanmaken",
+    "errorTitle": "Fout",
+    "errorFields": "Voer een e-mailadres en een wachtwoord in",
+    "errorDefault": "Inloggen mislukt",
+    "errorServer": "Kan geen verbinding maken met de server"
+  }
+}

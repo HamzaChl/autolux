@@ -1,0 +1,77 @@
+{
+  "home": {
+    "title": "Où voulez-vous aller ?",
+    "pickup": "Lieu de départ",
+    "dropoff": "Entrer la destination",
+    "youAreHere": "Vous êtes ici",
+    "destination": "Destination",
+    "distanceDuration": "Distance : {{distance}} • Durée : {{duration}}",
+    "error": "Erreur",
+    "enterAddresses": "Veuillez entrer une adresse de départ et d’arrivée",
+    "serverError": "Impossible de contacter le serveur",
+    "routeError": "Impossible de calculer l’itinéraire",
+    "findRide": "Rechercher"
+  },
+  "profile": {
+    "messages": "Messages",
+    "payment": "Paiement",
+    "promotions": "Promotions",
+    "language": "Langue",
+    "selectLanguage": "Choisissez une langue",
+    "cancel": "Annuler",
+    "support": "Support",
+    "about": "À propos",
+    "back": "Retour",
+    "hello": "Bonjour,",
+    "userNotFound": "Utilisateur non trouvé",
+    "logout": "Déconnexion",
+    "logoutTitle": "Déconnexion",
+    "logoutConfirm": "Voulez-vous vraiment vous déconnecter ?",
+    "paymentMethods": "Moyens de paiement",
+    "addPaymentMethod": "Ajouter un moyen de paiement",
+    "favorites": "Favoris"
+  },
+  "support": {
+    "emailTitle": "Contactez-nous par email",
+    "emailDesc": "Pour toute question ou assistance, envoyez-nous un email.",
+    "emailButton": "Envoyer un email",
+    "phoneTitle": "Appelez notre support",
+    "phoneDesc": "Besoin d’une réponse immédiate ? Appelez notre équipe support.",
+    "phoneButton": "Appeler le support"
+  },
+  "payment": {
+    "payButton": "Payer {{amount}} {{currency}}",
+    "errorTitle": "Erreur",
+    "errorInit": "Impossible d'initier le paiement",
+    "errorServer": "Impossible de contacter le serveur de paiement",
+    "successTitle": "✅ Succès",
+    "successMessage": "Paiement effectué avec succès !"
+  },
+  "history": {
+    "title": "Historique des trajets",
+    "empty": "Aucun trajet enregistré"
+  },
+  "welcome": {
+    "title": "Plus qu’un taxi, une expérience premium",
+    "login": "Se connecter",
+    "create": "Créer un compte"
+  },
+  "misc": {
+    "back": "Retour",
+    "edit": "Modifier mon profil"
+  },
+  "login": {
+    "title": "Connexion",
+    "subtitle": "Ravi de vous revoir, connectez-vous pour continuer",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "keepSignedIn": "Rester connecté",
+    "loginButton": "Se connecter",
+    "createAccount": "Créer un compte",
+    "errorTitle": "Erreur",
+    "errorFields": "Veuillez entrer un email et un mot de passe",
+    "errorDefault": "Connexion échouée",
+    "errorServer": "Impossible de se connecter au serveur"
+  }
+}

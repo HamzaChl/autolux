@@ -1,0 +1,77 @@
+{
+  "home": {
+    "title": "Where do you want to go?",
+    "pickup": "Pickup location",
+    "dropoff": "Enter destination",
+    "youAreHere": "You are here",
+    "destination": "Destination",
+    "distanceDuration": "Distance: {{distance}} • Duration: {{duration}}",
+    "error": "Error",
+    "enterAddresses": "Please enter a pickup and dropoff address",
+    "serverError": "Unable to contact the server",
+    "routeError": "Unable to calculate the route",
+    "findRide": "Search"
+  },
+  "profile": {
+    "messages": "Messages",
+    "payment": "Payment",
+    "promotions": "Promotions",
+    "language": "Language",
+    "selectLanguage": "Select a language",
+    "cancel": "Cancel",
+    "support": "Support",
+    "about": "About",
+    "back": "Back",
+    "hello": "Hello,",
+    "userNotFound": "User not found",
+    "logout": "Logout",
+    "logoutTitle": "Logout",
+    "logoutConfirm": "Do you really want to log out?",
+    "paymentMethods": "Payment methods",
+    "addPaymentMethod": "Add a payment method",
+    "favorites": "Favorites"
+  },
+  "support": {
+    "emailTitle": "Contact us by email",
+    "emailDesc": "For any questions or assistance, send us an email.",
+    "emailButton": "Send an email",
+    "phoneTitle": "Call our support",
+    "phoneDesc": "Need an immediate answer? Call our support team.",
+    "phoneButton": "Call support"
+  },
+  "payment": {
+    "payButton": "Pay {{amount}} {{currency}}",
+    "errorTitle": "Error",
+    "errorInit": "Unable to start payment",
+    "errorServer": "Unable to contact the payment server",
+    "successTitle": "✅ Success",
+    "successMessage": "Payment completed successfully!"
+  },
+  "history": {
+    "title": "Ride history",
+    "empty": "No rides recorded"
+  },
+  "welcome": {
+    "title": "More than just a taxi, a premium experience",
+    "login": "Log in",
+    "create": "Create an account"
+  },
+  "misc": {
+    "back": "Back",
+    "edit": "Edit my profile"
+  },
+  "login": {
+    "title": "Login",
+    "subtitle": "Welcome back, please sign in to continue",
+    "email": "Email address",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "keepSignedIn": "Keep me signed in",
+    "loginButton": "Login",
+    "createAccount": "Create an account",
+    "errorTitle": "Error",
+    "errorFields": "Please enter an email and a password",
+    "errorDefault": "Login failed",
+    "errorServer": "Unable to connect to the server"
+  }
+}
